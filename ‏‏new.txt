@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+#website_header{
+	color:green;
+	background-color: yellow ;
+	font-size: 50px;
+	font-weight:bold;
+	padding: 20px ;
+	font-style: italic;
+	}
+	
+</style>
+
+
+	
+</head>
+
+<body>
+
+<div id="website_header" style="margin: 0 10px 0 0">
+First Task</div>
+
+
+<button type="button" style="margin:20px 0 20px 100px">Forward</button>
+<br>
+<button type="button"style="margin:0 50px 0 0">Left</button>
+<button type="button" style="background-color:red;padding-bottom:5px;font-size:16px; margin: 0 0 0 15px">Start</button>
+<button type="button" style="margin:0 0 0 70px">Right</button>
+<br>
+<button type="button"style="margin:20px 0 20px 95px">Backword</button>
+
+
+</body>
+</html>
